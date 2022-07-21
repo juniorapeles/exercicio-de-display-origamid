@@ -1,0 +1,32 @@
+body {
+  font-family: arial;
+  margin: 0px;
+  padding: 0px;
+}
+.titulo {
+  text-align: center;
+  font-family: arial;
+}
+div {
+  margin: 40px;
+  padding: 20px;
+  width: 550px;
+  padding-bottom: 30px;
+  background-color: #111;
+  color: #b2b2b2;
+}
+.preço {
+  color: #febe01;
+}
+h2 {
+  display: inline;
+  font-family: arial;
+  color: white;
+}
+.button {
+  border-radius: 4px;
+  background-color: #febe01;
+  color: #332200;
+  text-decoration: none;
+  padding: 8px;
+}
